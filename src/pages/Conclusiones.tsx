@@ -14,6 +14,11 @@ const Conclusiones = () => {
                 de soluciones tecnológicas innovadoras. Los resultados obtenidos demuestran
                 la efectividad de nuestra metodología y enfoque.
               </p>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+                <img src="../src/images/usuario.jpeg" alt="Logro 1" className="rounded-lg shadow-md" />
+                <img src="../src/images/mascota.jpeg" alt="Logro 2" className="rounded-lg shadow-md" />
+                <img src="../src/images/da.jpeg" alt="Logro 3" className="rounded-lg shadow-md" />
+              </div>
             </div>
           </div>
           <div className="bg-white p-6 rounded-lg shadow-md">

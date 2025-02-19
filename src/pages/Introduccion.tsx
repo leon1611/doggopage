@@ -40,9 +40,28 @@ const Introduccion = () => {
             </div>
           </div>
 
+          {/* Sección: Diagrama de Desarrollo */}
           <div className="bg-white p-6 rounded-lg shadow-md text-justify">
-          <h2 className="text-2xl font-bold text-indigo-600 mb-4">Diagrama de Desarollo</h2>
+            <h2 className="text-2xl font-bold text-indigo-600 mb-4">Diagrama de Desarrollo</h2>
+            <div className="flex justify-between space-x-4">
+              <img
+                src="../src/images/Copia de 1.png"
+                alt="Diagrama 1"
+                className="w-1/3 h-auto rounded-md shadow"
+              />
+              <img
+                src="../src/images/Copia de 2.png"
+                alt="Diagrama 2"
+                className="w-1/3 h-auto rounded-md shadow"
+              />
+              <img
+                src="../src/images/Copia de 3.png"
+                alt="Diagrama 3"
+                className="w-1/3 h-auto rounded-md shadow"
+              />
+            </div>
           </div>
+
           {/* Sección: Imagen Centrada */}
           <div className="bg-white p-6 rounded-lg shadow-md flex justify-center">
             <img
@@ -58,3 +77,5 @@ const Introduccion = () => {
 };
 
 export default Introduccion;
+
+

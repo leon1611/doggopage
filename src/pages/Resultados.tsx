@@ -10,7 +10,7 @@ const Resultados = () => {
         <div className="bg-white p-6 rounded-lg shadow-md mb-6" style={{ textAlign: "justify" }}>
           <p className="mb-4"><strong>Resultados Actuales:</strong></p>
           <p className="mb-4">
-            <strong>Evaluación Técnica:</strong> La aplicación ha mostrado un rendimiento sólido en términos de velocidad de transferencia de datos y precisión. Sin embargo, se han identificado áreas de mejora en usabilidad y satisfacción, especialmente en la interacción real con la aplicación.
+            <strong>Evaluación Técnica:</strong> La aplicación ha mostrado un buen rendimiento en términos de velocidad de transferencia de datos y precisión. Sin embargo, se han identificado áreas de mejora en usabilidad y satisfacción, especialmente en la interacción real con la aplicación.
           </p>
           <p className="mb-4">
             <strong>Evaluación de Veterinarios:</strong> Los profesionales han valorado positivamente la facilidad de uso y la utilidad percibida de la aplicación. No obstante, se han señalado oportunidades para mejorar la funcionalidad y la personalización de la interfaz para adaptarse mejor a las necesidades específicas de las clínicas veterinarias.

@@ -8,10 +8,10 @@ const Desarrollo = () => {
         <div className="grid gap-6">
           <div className="bg-white p-6 rounded-lg shadow-md">
             <h2 className="text-2xl font-bold text-indigo-600 mb-4">Metodología</h2>
-            <p className="text-gray-700 leading-relaxed">
+            <p className="text-gray-700 leading-relaxed text-justify">
               Para este proyecto se compararon diferentes métodos previamente utilizados por los investigadores para obtener los mejores resultados, e incluyeron nuevas metodologías con el fin de seguir el proceso más eficaz y lograr conclusiones reales.
               Tomando en cuenta el tipo de aplicación móvil y el alcance deseado, se tomaron como referencia las metodologías aplicativa y descriptiva.
-              Asimismo, se consideraron enfoques ágiles como Scrum, Extreme Programming, Kanban y Mobil D para optimizar recursos, mejorar la productividad y asegurar la calidad del software mediante pruebas continuas, fomentando la colaboración y la retroalimentación del usuario.
+              Asimismo, se consideraron enfoques ágiles como Scrum, React, Springboot,Trello y Mobil D para optimizar recursos, mejorar la productividad y asegurar la calidad del software mediante pruebas continuas, fomentando la colaboración y la retroalimentación del usuario.
             </p>
           </div>
           <div className="bg-white p-6 rounded-lg shadow-md">

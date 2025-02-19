@@ -25,10 +25,11 @@ const Navbar = () => {
           <CustomNavLink to="/" icon={<Home size={20} />} text="Inicio" />
           <CustomNavLink to="/introduccion" icon={<Book size={20} />} text="Introducción" />
           <CustomNavLink to="/desarrollo" icon={<Lightbulb size={20} />} text="Desarrollo" />
-          <CustomNavLink to="/conclusiones" icon={<ClipboardList size={20} />} text="Conclusiones" />
-          <CustomNavLink to="/integrantes" icon={<Users size={20} />} text="Integrantes" />
           <CustomNavLink to="/documentacion" icon={<FileText size={20} />} text="Documentación" />
+          <CustomNavLink to="/conclusiones" icon={<ClipboardList size={20} />} text="Conclusiones" />
           <CustomNavLink to="/resultados" icon={<LineChart size={20} />} text="Resultados" />
+          <CustomNavLink to="/integrantes" icon={<Users size={20} />} text="Integrantes" />
+
         </div>
       </div>
     </nav>
